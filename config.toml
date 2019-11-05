@@ -1,4 +1,4 @@
-baseurl = "http://lampk.netlify.com"
+baseurl = "http://lampk.netlify.com/"
 title = "Phung Khanh Lam"
 
 theme = "hugo-coder-portfolio"
