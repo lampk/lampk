@@ -30,4 +30,11 @@ description = "resources"
 * [David Mccandless: The beauty of data visualization](http://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization)
 * [R Luke Dubois: Insightful human portraits made from data](http://www.ted.com/talks/r_luke_dubois_insightful_human_portraits_made_from_data)
 
+## My notes
 
+* [On Medicine](https://lampk.github.io/notebook_Medicine/)
+* [On Health research](https://lampk.github.io/notebook_HealthResearch/)
+* [On Biostatistics](https://lampk.github.io/notebook_Biostatistics/)
+* [On Education](https://lampk.github.io/notebook_Education/)
+* [On Social Enterprise](https://lampk.github.io/notebook_SocialEnterprise/)
+* [On random things](https://lampk.github.io/notebook_Misc/)
