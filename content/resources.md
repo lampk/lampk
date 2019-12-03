@@ -35,6 +35,7 @@ description = "resources"
 * [On Medicine](https://lampk.github.io/notebook_Medicine/)
 * [On Health research](https://lampk.github.io/notebook_HealthResearch/)
 * [On Biostatistics](https://lampk.github.io/notebook_Biostatistics/)
+* [On Behavioural & Computational Cognitive Science](https://lampk.github.io/notebook_Behavioural_CoCoScience/)
 * [On Education](https://lampk.github.io/notebook_Education/)
 * [On Social Enterprise](https://lampk.github.io/notebook_SocialEnterprise/)
 * [On random things](https://lampk.github.io/notebook_Misc/)
